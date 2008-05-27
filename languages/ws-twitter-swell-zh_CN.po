@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Twitter Swell\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-05-21 20:04+0800\n"
+"PO-Revision-Date: 2008-05-21 20:04+0800\n"
+"Last-Translator: \n"
+"Language-Team:  <icyleaf.cn@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: E:/PHP/wp/wordpress/wp-content/plugins/twitter-swell\n"
+"X-Poedit-SearchPath-0: E:/PHP/wp/wordpress/wp-content/plugins/twitter-swell\n"
+
+#: E:/PHP/wp/wordpress/wp-content/plugins/twitter-swell/twitter-swell.php:23
+msgid "Twitter Swell设置"
+msgstr ""
+
+#: E:/PHP/wp/wordpress/wp-content/plugins/twitter-swell/twitter-swell.php:34
+#: E:/PHP/wp/wordpress/wp-content/plugins/twitter-swell/twitter-swell.php:119
+msgid "保存设置"
+msgstr ""
+
+#: E:/PHP/wp/wordpress/wp-content/plugins/twitter-swell/twitter-swell.php:45
+#: E:/PHP/wp/wordpress/wp-content/plugins/twitter-swell/twitter-swell.php:123
+msgid "删除本插件"
+msgstr ""
+
+#: E:/PHP/wp/wordpress/wp-content/plugins/twitter-swell/twitter-swell.php:56
+msgid "首先设置好Twitter的账户和密码。设置完毕后记得要保存设置哦！"
+msgstr ""
+
+#: E:/PHP/wp/wordpress/wp-content/plugins/twitter-swell/twitter-swell.php:58
+msgid "术语约定"
+msgstr ""
+
+#: E:/PHP/wp/wordpress/wp-content/plugins/twitter-swell/twitter-swell.php:61
+msgid "1. <b>登录窗体</b>：即登录博客时填写用户名，密码的窗体。<br />"
+msgstr ""
+
+#: E:/PHP/wp/wordpress/wp-content/plugins/twitter-swell/twitter-swell.php:62
+msgid "2. <b>Twitter发送窗体</b>：即输入你要发送的Twiiter信息框的窗体。<br />"
+msgstr ""
+
+#: E:/PHP/wp/wordpress/wp-content/plugins/twitter-swell/twitter-swell.php:63
+msgid "3. <b>Tweet窗体</b>：即显示Twitter信息的窗体。"
+msgstr ""
+
+#: E:/PHP/wp/wordpress/wp-content/plugins/twitter-swell/twitter-swell.php:68
+msgid "在你想显示Twitter发送框的地方插入下列代码到你的主题当中即可："
+msgstr ""
+
+#: E:/PHP/wp/wordpress/wp-content/plugins/twitter-swell/twitter-swell.php:71
+msgid "建议插入到你当前使用主题index.php文件<code style=\"color:#D64D21\">&lt;?php if (have_posts()) : ?&gt;</code> 的上一行。"
+msgstr ""
+
+#: E:/PHP/wp/wordpress/wp-content/plugins/twitter-swell/twitter-swell.php:76
+msgid "同时，WSTS_ShowTwitter()函数还支持一个参数配置："
+msgstr ""
+
+#: E:/PHP/wp/wordpress/wp-content/plugins/twitter-swell/twitter-swell.php:78
+msgid "默认使用可以省略参数，省略使用表示在未登录状态代码插入位置不显示登录窗体"
+msgstr ""
+
+#: E:/PHP/wp/wordpress/wp-content/plugins/twitter-swell/twitter-swell.php:79
+msgid "使用<code style=\"color:#D64D21\">&lt;?php WSTS_TweetForm() ?&gt;</code>代码可以显示Tweet窗体。"
+msgstr ""
+
+#: E:/PHP/wp/wordpress/wp-content/plugins/twitter-swell/twitter-swell.php:91
+msgid "Twitter用户名"
+msgstr ""
+
+#: E:/PHP/wp/wordpress/wp-content/plugins/twitter-swell/twitter-swell.php:94
+msgid "没有Twiiter账户？立即<a href=\"http://twitter.com/signup\" target=\"_blank\">申请一个Twiiter账户</a>。"
+msgstr ""
+
+#: E:/PHP/wp/wordpress/wp-content/plugins/twitter-swell/twitter-swell.php:98
+msgid "Twitter密码"
+msgstr ""
+
+#: E:/PHP/wp/wordpress/wp-content/plugins/twitter-swell/twitter-swell.php:106
+msgid "显示信息个数"
+msgstr ""
+
+#: E:/PHP/wp/wordpress/wp-content/plugins/twitter-swell/twitter-swell.php:110
+msgid "附加信息"
+msgstr ""
+
+#: E:/PHP/wp/wordpress/wp-content/plugins/twitter-swell/twitter-swell.php:114
+msgid "在Twitter信息末尾附加插件名字。"
+msgstr ""
+
+#: E:/PHP/wp/wordpress/wp-content/plugins/twitter-swell/twitter-swell.php:139
+msgid "(由Twitter Swell发送)"
+msgstr ""
+
+#: E:/PHP/wp/wordpress/wp-content/plugins/twitter-swell/twitter-swell.php:151
+msgid "你在做什么？"
+msgstr ""
+
+#: E:/PHP/wp/wordpress/wp-content/plugins/twitter-swell/twitter-swell.php:193
+msgid "你输入的信息为空！"
+msgstr ""
+
+#: E:/PHP/wp/wordpress/wp-content/plugins/twitter-swell/twitter-swell.php:213
+msgid "发送失败。"
+msgstr ""
+
+#: E:/PHP/wp/wordpress/wp-content/plugins/twitter-swell/twitter-swell.php:215
+msgid "信息"
+msgstr ""
+
+#: E:/PHP/wp/wordpress/wp-content/plugins/twitter-swell/twitter-swell.php:234
+msgid "博客用户名"
+msgstr ""
+
+#: E:/PHP/wp/wordpress/wp-content/plugins/twitter-swell/twitter-swell.php:235
+msgid "博客密码"
+msgstr ""
+
+#: E:/PHP/wp/wordpress/wp-content/plugins/twitter-swell/twitter-swell.php:241
+msgid "登录博客"
+msgstr ""
+
+#: E:/PHP/wp/wordpress/wp-content/plugins/twitter-swell/twitter-swell.php:256
+msgid "Twitter Swell成功激活。"
+msgstr ""
+
+#: E:/PHP/wp/wordpress/wp-content/plugins/twitter-swell/twitter-swell.php:257
+#, php-format
+msgid "输入<a href=\"%1$s\">Twitter用户名和密码</a>后Twitter Swell才能正常工作。"
+msgstr ""
+
+#~ msgid "Username"
+#~ msgstr "用户名"
+#~ msgid "Password"
+#~ msgstr "密码"
+#~ msgid "Log In"
+#~ msgstr "登录"
+#~ msgid "提示"
+#~ msgstr "Directions"
+
