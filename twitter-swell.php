@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Twitter Swell
-Plugin URI: http://www.icyleaf.cn
+Plugin URI: http://icyleaf.com
 Description: 添加Twiiter信息输入框到自己的博客上面并个性化输出显示。(You coult post message to your Twitter and show it.)
-Version: 0.8
+Version: 0.8.1
 Author: icyleaf
-Author URI: http://www.icyleaf.cn
+Author URI: http://icyleaf.com
 */
 
 // Support l10n
