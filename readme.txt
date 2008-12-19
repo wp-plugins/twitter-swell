@@ -1,4 +1,6 @@
 ﻿=== Twitter Swell ===
+Contributors: icyleaf
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=N4QVYJCWXPF22&lc=US&item_name=Http%3a%2f%2ficyleaf%2ecom&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted
 Tags: twitter,widgets,posts,form,posting
 Contributors: icyleaf
 Requires at least: 2.3.1
