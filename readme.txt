@@ -3,7 +3,7 @@ Tags: twitter,widgets,posts,form,posting
 Contributors: icyleaf
 Requires at least: 2.3.1
 Stable tag: trunk
-Tested up to: 2.5.1
+Tested up to: 2.7
 
 == Description == 
 You coult post message to your Twitter and show it.
